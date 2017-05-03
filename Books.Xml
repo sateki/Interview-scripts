@@ -1,0 +1,63 @@
+<Books>
+
+<Book>
+<Name>The Hunger Games</Name>
+<Author>Suzanne Collins</Author>
+<Genre>Action</Genre>
+<Year>Published 2008</Year>
+</Book>
+<Book>
+<Name>Catching Fire</Name>
+<Author>Suzanne Collins</Author>
+<Genre>Action</Genre>
+<Year>Published 2006</Year>
+</Book>
+<Book>
+<Name>Twilight</Name>
+<Author>Stephen Meyer</Author>
+<Genre>Action</Genre>
+<Year>Published 2009</Year>
+</Book>
+<Book>
+<Name>Beautiful Disaster</Name>
+<Author>Jamie McGuire</Author>
+<Genre>Romance</Genre>
+<Year>Published 2014</Year>
+</Book>
+<Book>
+<Name>Fifty shades of Grey</Name>
+<Author>E.L James</Author>
+<Genre>Romance</Genre>
+<Year>Published 2013</Year>
+</Book>
+<Book>
+<Name>Hopeless</Name>
+<Author>Collen Hoover</Author>
+<Genre>Romance</Genre>
+<Year>Published 2005</Year>
+</Book>
+<Book>
+<Name>TheFaultinourStars</Name>
+<Author>JohnGreen</Author>
+<Genre>Romance</Genre>
+<Year>Published2008</Year>
+</Book>
+<Book>
+<Name>TheOriginfospecies</Name>
+<Author>CharlesDarwin</Author>
+<Genre>Fantasy</Genre>
+<Year>Published2008</Year>
+</Book>
+<Book>
+<Name>TheCompleteWork</Name>
+<Author>WilliamShakespeare</Author>
+<Genre>Fantasy</Genre>
+<Year>Published1900</Year>
+</Book>
+<Book>
+<Name>TheRepublic</Name>
+<Author>Plato</Author>
+<Genre>Fantasy</Genre>
+<Year>Published1950</Year>
+</Book>
+</Books>
